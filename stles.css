@@ -1,0 +1,25 @@
+.nav {
+    list-style: none;
+    padding: 0;
+
+    border-style: dashed;
+
+    width: 50vw;
+    margin: auto;
+
+    text-align: center;
+}
+
+.nav>li {
+    border: outset;
+    display: inline-block;
+}
+
+.nav>li>a{
+    text-decoration: none;
+    color: black;
+
+}
+.nav>li>a{
+    background-color: aqua;
+}
